@@ -1,4 +1,4 @@
-# Demo_Noflo_Data
+#Project_Noflo
 For running NoFlo programs on Node.js:
 
 step1: Download nodejs setup
